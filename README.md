@@ -1,4 +1,4 @@
-# Olá! Eu sou [Seu Nome] 👋
+# Olá! Eu sou José Carlos 👋
 
 ## 🚀 Sobre mim
 Sou desenvolvedor apaixonado por **automação de processos** e tecnologia! Atualmente curso **Análise e Desenvolvimento de Sistemas** e trabalho transformando processos manuais em soluções automatizadas eficientes.
