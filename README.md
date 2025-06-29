@@ -1,128 +1,144 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20&height=300&section=header&text=José%20Carlos&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=🤖%20Automation%20Developer%20%7C%20Python%20%7C%20RPA&descAlignY=51&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=140&section=header&text=🔥%20JOSÉ%20CARLOS%20🔥&fontSize=70&fontColor=fff&animation=blink"/>
 </div>
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=👋+Olá!+Eu+sou+José+Carlos;🤖+Automation+Developer;🐍+Python+Specialist;📊+Data+Analyst;☕+Java+Student)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FF4500&center=true&vCenter=true&width=500&lines=🚀+AUTOMATION+MASTER;🐍+PYTHON+DEVELOPER;🤖+RPA+SPECIALIST;📊+DATA+ANALYST;⚡+CODING+MACHINE)](https://git.io/typing-svg)
 
 </div>
 
-## 🚀 Sobre mim
+## 🚀 SOBRE MIM
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Fire Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
-Sou desenvolvedor apaixonado por **automação de processos** e tecnologia! Atualmente curso **Análise e Desenvolvimento de Sistemas** e trabalho transformando processos manuais em soluções automatizadas eficientes.
+🔥 **DESENVOLVEDOR APAIXONADO** por automação de processos e tecnologia! Transformo ideias em **SOLUÇÕES AUTOMATIZADAS** que revolucionam processos manuais!
 
+### ⚡ MINHAS ESPECIALIDADES:
 - 🔧 **Automação de Processos**
-- 🎓 **Estudante de ADS** - Análise e Desenvolvimento de Sistemas  
-- 💻 **Desenvolvedor Python** com foco em automação
-- 🤖 **Automation Anywhere** - RPA Developer
-- 📊 **Analista de Dados** - MySQL/SQL
-- ☕ **Estudando Java** nas horas vagas
+- 🎓 **Graduando em Análise e Desenvolvimento de Sistemas**
+- 💻 **Desenvolvedor Python** - Foco em Automação
+- 🤖 **Soluções RPA** - Automation Anywhere   
+- 📊 **Análise de Dados** - MySQL/SQL Pro
+- ☕ **Estudante Java** - Em Formação
 
 <br clear="right"/>
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ TECNOLOGIAS
 
 <div align="center">
 
-### 💼 Arsenal Atual
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&theme=dark" />
+### 🔥 EXPERIÊNCIA PROFISSIONAL
+![Python](https://img.shields.io/badge/PYTHON-FFD43B?style=for-the-badge&logo=python&logoColor=blue&labelColor=FF4500)
+![Automation Anywhere](https://img.shields.io/badge/AUTOMATION_ANYWHERE-FF6600?style=for-the-badge&logo=automation-anywhere&logoColor=white&labelColor=FF0000)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=FF8C00)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=FF6347)
 
-### 📚 Em Desenvolvimento
-<img src="https://skillicons.dev/icons?i=java&theme=dark" />
+### ⚡ EM DESENVOLVIMENTO
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=FF4500)
+
+### 🚀 FERRAMENTAS
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=DC143C)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6600)
+![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=FF4500)
 
 </div>
 
-## 📊 Estatísticas GitHub
+## 📊 ESTATÍSTICAS GITHUB
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Teodorox&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teodorox&layout=compact&langs_count=7&theme=synthwave&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Teodorox&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF4500&text_color=FF6347&icon_color=FF8C00"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teodorox&layout=compact&langs_count=7&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF4500&text_color=FF6347"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Teodorox&theme=synthwave&hide_border=true" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Teodorox&theme=radical&hide_border=true&background=0d1117&ring=FF4500&fire=FF8C00&currStreakLabel=FF6347" alt="Streak Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Teodorox&theme=synthwave-84&hide_border=true" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Teodorox&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
-## 🎯 Áreas de Interesse
+## 🎯 DOMÍNIOS DE ATUAÇÃO
 
 <div align="center">
 
-| 🤖 RPA | 🐍 Python | 📈 Data Analysis |
-|:---:|:---:|:---:|
-| **Robotic Process Automation** | **Automação com Python** | **Análise de Dados** |
-
-| 🗄️ Database | ☕ Java | 🎓 Systems |
-|:---:|:---:|:---:|
-| **Banco de Dados** | **Desenvolvimento Java** | **Desenvolvimento de Sistemas** |
+<table>
+<tr>
+<td align="center" style="border: none;">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+<br><strong>🤖 RPA MASTER</strong>
+<br>Robotic Process Automation
+</td>
+<td align="center" style="border: none;">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100">
+<br><strong>🐍 PYTHON NINJA</strong>
+<br>Automação com Python
+</td>
+<td align="center" style="border: none;">
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100">
+<br><strong>📊 DATA SCIENTIST</strong>
+<br>Análise de Dados
+</td>
+</tr>
+</table>
 
 </div>
 
-## 🚀 Projetos em Destaque
+## 🚀 PROJETOS EXPLOSIVOS
 
-<details>
-<summary>🤖 Automação de Processos</summary>
-
-- Scripts Python para automação de tarefas administrativas
-- Bots desenvolvidos em Automation Anywhere  
-- Integração de sistemas via APIs
-
-</details>
-
-<details>
-<summary>📊 Análise de Dados</summary>
-
-- Relatórios automatizados
-- Consultas SQL otimizadas
-- Análise de performance de processos
-
-</details>
-
-## 📈 Objetivos 2025
-
-```python
-class Objetivos2025:
-    def __init__(self):
-        self.metas = [
-            "🔥 Aprofundar conhecimentos em Java",
-            "🤖 Desenvolver projetos de RPA mais complexos", 
-            "🌟 Contribuir para projetos open source",
-            "🎓 Finalizar a graduação em ADS",
-            "☁️ Expandir conhecimentos em Cloud Computing"
-        ]
-    
-    def execute_goals(self):
-        return "🚀 Loading future success..."
+### 🔥 AUTOMAÇÃO SUPREMA
+```
+🤖 Scripts Python que DOMINAM tarefas administrativas
+🚀 Bots Automation Anywhere que REVOLUCIONAM processos  
+⚡ APIs que CONECTAM sistemas
 ```
 
-## 📫 Como me encontrar
+### 💥 ANÁLISE DE DADOS ÉPICA
+```
+📊 Dashboards que IMPRESSIONAM stakeholders
+🎯 Consultas SQL OTIMIZADAS ao extremo
+📈 Relatórios que TRANSFORMAM decisões
+```
+
+## 🎯 MISSÕES 2025
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/jgomes-teodoro)
-[![Email](https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:teodoro2522@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-00FFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=000000)](https://github.com/Teodorox)
+| 🎯 OBJETIVO | 🔥 STATUS | ⚡ POWER LEVEL |
+|:---:|:---:|:---:|
+| **Domínio Java** | 🔄 Em Desenvolvimento | ████████░░ 80% |
+| **RPA Avançado** | 🚀 Em Andamento | ██████████ 100% |
+| **Projetos Open Source** | 💪 Preparado | ███████░░░ 70% |
+| **Conclusão da Graduação** | 📚 Cursando | █████████░ 90% |
+| **Tecnologias Cloud** | 📋 Planejado | ██████░░░░ 60% |
+
+</div>
+
+## 🌐 ENCONTRE-ME
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FF4500)](https://www.linkedin.com/in/jgomes-teodoro)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6347)](mailto:teodoro2522@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=FF8C00)](https://github.com/Teodorox)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Teodorox&color=blueviolet&style=neon" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Teodorox&color=orange&style=for-the-badge&label=VISITANTES+ÉPICOS" alt="Profile views"/>
 </div>
 
 <div align="center">
   
-  *"A automação não substitui o pensamento humano, ela liberta nossa mente para problemas mais complexos"*
+  **🔥 "A automação não substitui o pensamento humano, ela liberta nossa mente para problemas mais complexos" 🔥**
   
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
