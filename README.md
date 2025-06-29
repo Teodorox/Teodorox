@@ -54,7 +54,7 @@ Sou desenvolvedor apaixonado por **automação de processos** e tecnologia! Atua
 - Integração de sistemas via APIs
 
 ### 📊 Análise de Dados
-- Dashboards e relatórios automatizados
+- Relatórios automatizados
 - Consultas SQL otimizadas
 - Análise de performance de processos
 
