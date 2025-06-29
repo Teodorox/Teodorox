@@ -9,7 +9,7 @@
 
 🤖 Soluções RPA - Automation Anywhere   
 
-📊 Análise de Dados - MySQL/SQL Pro
+📊 Análise de Dados - MySQL/SQL
 
 ☕ Estudante Java - Em Formação
 
