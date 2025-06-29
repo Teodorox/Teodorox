@@ -29,12 +29,12 @@ Sou desenvolvedor apaixonado por **automação de processos** e tecnologia! Atua
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Teodorox&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teodorox&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dracula" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Teodorox&theme=dracula" alt="Streak Stats"/>
 </div>
 
 ## 🎯 Áreas de Interesse
@@ -75,7 +75,7 @@ Sou desenvolvedor apaixonado por **automação de processos** e tecnologia! Atua
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Teodorox&color=blue" alt="Profile views"/>
 </div>
 
 <div align="center">
