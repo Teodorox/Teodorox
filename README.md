@@ -68,7 +68,7 @@ Sou desenvolvedor apaixonado por **automação de processos** e tecnologia! Atua
 
 ## 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jgomes-teodoro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jgomes-teodoro)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teodoro2522@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Teodorox)
 
@@ -83,3 +83,4 @@ Sou desenvolvedor apaixonado por **automação de processos** e tecnologia! Atua
   *"A automação não substitui o pensamento humano, ela liberta nossa mente para problemas mais complexos"*
   
 </div>
+
