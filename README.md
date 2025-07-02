@@ -16,7 +16,6 @@
 </div>
 
 ---
-<img align="right" alt="Fire Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 ### 🔥 Habilidades
 ![Automation Anywhere](https://img.shields.io/badge/AUTOMATION_ANYWHERE-FF6600?style=for-the-badge&logo=automation-anywhere&logoColor=white&labelColor=FF0000)
