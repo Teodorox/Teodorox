@@ -12,7 +12,18 @@ do caminho e, hoje, uso IA generativa para levar ideias a produtos funcionando e
 | Projeto | O que faz | Stack |
 |---|---|---|
 | [English Zé](https://github.com/Teodorox/english-ze) | Plataforma de estudo de inglês: a IA corrige o que você escreve e transforma cada erro em flashcard; checa a pronúncia com Whisper | FastAPI · PostgreSQL · Claude API · Whisper |
-| Painel Vizinha Online | Automação de conteúdo para Instagram: traz os assuntos em alta, gera o post com IA e legenda vídeos em português. Montar um post caiu de 10–15 min para 1–2 min | FastAPI · Claude API · Deepgram · ffmpeg |
+| Painel Vizinha Online | Automação de conteúdo para Instagram: traz os assuntos em alta, gera o post com IA e legenda vídeos em português. Montar um post caiu de 10–15 min para 1–2 min (demonstração abaixo) | FastAPI · Claude API · Deepgram · ffmpeg |
+
+### 🎬 Painel Vizinha Online em ação
+
+<img src="assets/vizinha-formatos.gif" alt="Os três formatos que o painel gera: post só com o vídeo, reels com vinheta e carrossel" width="800" />
+
+Da notícia ao post pronto: o painel acha os assuntos em alta, a Claude API escreve a pauta e as artes saem
+prontas em três formatos. Nada é publicado sem aprovação. O código é privado, então o vídeo mostra o fluxo completo:
+
+https://github.com/user-attachments/assets/cf5f4278-368c-4c8b-a1d9-9b3bfa7a0e15
+
+<sub>Demonstração com dados ilustrativos; notícias de exemplo do g1. Trilha: "Upbeat Groove", de sub_clair (Pixabay).</sub>
 
 ### 📈 Resultados no trabalho
 - Processo operacional crítico reduzido de **~9 horas para 40 minutos** com automação em Python
